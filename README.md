@@ -24,6 +24,11 @@ El ejercicio:
 
 </ol>
 
+Solución:
 
+- Se incluyó el arhivo Dockerfile, para buildear la imagen ejecutar:
+```docker build -t ejercicio-vicente .```
+
+- Se incluyen en el directorio Scripts los comandos para ejecutar el contenedor mapeando puertos y volumenes y para hacer la POST request a la aplicación.
 
 
